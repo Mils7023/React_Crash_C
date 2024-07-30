@@ -4,14 +4,14 @@ export default function Card() {
       <a href="/">
         <img
           className="p-8 rounded-t-lg"
-          src="https://images.pexels.com/photos/18264716/pexels-photo-18264716/free-photo-of-man-people-laptop-internet.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          src="https://media.istockphoto.com/id/1854857525/photo/in-an-art-center-visitors-looks-at-the-artists-collection.jpg?s=1024x1024&w=is&k=20&c=jRF9cJVMieQpAgNmyC7mQ2Ri9K8VXeX_lAZUQqF0ycA="
           alt="product_image1"
         />
       </a>
       <div className="px-5 pb-5">
         <a href="/">
           <h5 className="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
-            Apple Watch Series 7 GPS, Aluminium Case, Starlight Sport
+            Modern colorful paintings on exhibition.
           </h5>
         </a>
         <div className="flex items-center mt-2.5 mb-5">
@@ -66,13 +66,13 @@ export default function Card() {
         </div>
         <div className="flex items-center justify-between">
           <span className="text-3xl font-bold text-gray-900 dark:text-white">
-            $599
+            $20
           </span>
           <a
             href="/"
             className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
           >
-            Add to cart
+            Book A Visit
           </a>
         </div>
       </div>
